@@ -1,14 +1,399 @@
 [
   {
-    "prid": 2291386,
-    "title": "Test",
-    "date": "प्रविष्टि तिथि: 31 JUL 2026 3:32PM by PIB Delhi",
-    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2292386",
+    "prid": 1000001,
+    "title": "Government announces new climate action framework for 2030",
+    "date": "प्रविष्टि तिथि: 25 Jul 2026 9:00AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291386",
+    "verdict": "READ",
+    "priority": 9,
+    "syllabus_mapping": [
+      "Environment",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Framework targets 40% emission reduction by 2030.",
+      "Includes green hydrogen mission and solar expansion."
+    ]
+  },
+  {
+    "prid": 1000002,
+    "title": "Indian Railways introduces new semi-high-speed corridor",
+    "date": "प्रविष्टि तिथि: 26 Jul 2026 10:07AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291387",
+    "verdict": "LEAVE",
+    "priority": 4,
+    "syllabus_mapping": [
+      "Economy",
+      "Science & Technology"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000003,
+    "title": "National Education Policy implementation review released",
+    "date": "प्रविष्टि तिथि: 27 Jul 2026 11:14AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291388",
+    "verdict": "READ",
+    "priority": 8,
+    "syllabus_mapping": [
+      "Governance",
+      "Society"
+    ],
+    "upsc_summary": [
+      "Review highlights improvement in foundational literacy.",
+      "Teacher training modules updated nationwide."
+    ]
+  },
+  {
+    "prid": 1000004,
+    "title": "Finance Ministry issues updated fiscal deficit targets",
+    "date": "प्रविष्टि तिथि: 28 Jul 2026 12:21PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291389",
+    "verdict": "LEAVE",
+    "priority": 5,
+    "syllabus_mapping": [
+      "Economy"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000005,
+    "title": "Defense Ministry signs agreement for indigenous artillery systems",
+    "date": "प्रविष्टि तिथि: 29 Jul 2026 1:28PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291390",
+    "verdict": "READ",
+    "priority": 7,
+    "syllabus_mapping": [
+      "Science & Technology",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Agreement covers production of 200 advanced artillery systems.",
+      "/Make in India/ defense manufacturing boost expected."
+    ]
+  },
+  {
+    "prid": 1000006,
+    "title": "Ministry of Health launches new telemedicine portal for rural areas",
+    "date": "प्रविष्टि तिथि: 30 Jul 2026 9:35AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291391",
     "verdict": "LEAVE",
     "priority": 3,
     "syllabus_mapping": [
-      "N/A"
+      "Governance",
+      "Society"
     ],
     "upsc_summary": []
+  },
+  {
+    "prid": 1000007,
+    "title": "Supreme Court delivers landmark judgment on data privacy",
+    "date": "प्रविष्टि तिथि: 31 Jul 2026 10:42AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291392",
+    "verdict": "READ",
+    "priority": 9,
+    "syllabus_mapping": [
+      "Polity",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Judgment strengthens individual rights under the Constitution.",
+      "Mandates data protection framework within 12 months."
+    ]
+  },
+  {
+    "prid": 1000008,
+    "title": "Agriculture Ministry releases new crop insurance guidelines",
+    "date": "प्रविष्टि तिथि: 01 Aug 2026 11:49AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291393",
+    "verdict": "LEAVE",
+    "priority": 4,
+    "syllabus_mapping": [
+      "Economy",
+      "Society"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000009,
+    "title": "Space Agency announces next lunar mission timeline",
+    "date": "प्रविष्टि तिथि: 02 Aug 2026 12:56PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291394",
+    "verdict": "READ",
+    "priority": 8,
+    "syllabus_mapping": [
+      "Science & Technology"
+    ],
+    "upsc_summary": [
+      "Mission scheduled for Q2 2027 with advanced payload.",
+      "International collaborations expanded with new agreements."
+    ]
+  },
+  {
+    "prid": 1000010,
+    "title": "Tourism Department promotes heritage circuits in North-East",
+    "date": "प्रविष्टि तिथि: 03 Aug 2026 1:03PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291395",
+    "verdict": "LEAVE",
+    "priority": 2,
+    "syllabus_mapping": [
+      "Economy",
+      "Culture"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000011,
+    "title": "Labor Ministry updates minimum wage rates across sectors",
+    "date": "प्रविष्टि तिथि: 04 Aug 2026 9:10AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291396",
+    "verdict": "LEAVE",
+    "priority": 3,
+    "syllabus_mapping": [
+      "Economy",
+      "Society"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000012,
+    "title": "External Affairs Ministry issues advisory on overseas travel safety",
+    "date": "प्रविष्टि तिथि: 05 Aug 2026 10:17AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291397",
+    "verdict": "LEAVE",
+    "priority": 5,
+    "syllabus_mapping": [
+      "International Relations",
+      "Governance"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000013,
+    "title": "Electronics Ministry announces semiconductor design incentives",
+    "date": "प्रविष्टि तिथि: 06 Aug 2026 11:24AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291398",
+    "verdict": "READ",
+    "priority": 8,
+    "syllabus_mapping": [
+      "Economy",
+      "Science & Technology"
+    ],
+    "upsc_summary": [
+      "Incentive package includes grants and tax breaks.",
+      "Target is to establish 10 new design centers by 2028."
+    ]
+  },
+  {
+    "prid": 1000014,
+    "title": "Women and Child Development Ministry launches nutrition campaign",
+    "date": "प्रविष्टि तिथि: 07 Aug 2026 12:31PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291399",
+    "verdict": "LEAVE",
+    "priority": 4,
+    "syllabus_mapping": [
+      "Society",
+      "Governance"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000015,
+    "title": "Power Ministry announces smart grid pilot projects",
+    "date": "प्रविष्टि तिथि: 08 Aug 2026 1:38PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291400",
+    "verdict": "READ",
+    "priority": 6,
+    "syllabus_mapping": [
+      "Economy",
+      "Environment",
+      "Science & Technology"
+    ],
+    "upsc_summary": [
+      "Pilot projects cover 15 cities for grid modernization.",
+      "Expected to improve energy efficiency and reduce losses."
+    ]
+  },
+  {
+    "prid": 1000016,
+    "title": "Transport Ministry updates road safety regulations",
+    "date": "प्रविष्टि तिथि: 09 Aug 2026 9:45AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291401",
+    "verdict": "LEAVE",
+    "priority": 5,
+    "syllabus_mapping": [
+      "Governance",
+      "Economy"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000017,
+    "title": "Urban Development Ministry releases smart city progress report",
+    "date": "प्रविष्टि तिथि: 10 Aug 2026 10:52AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291402",
+    "verdict": "LEAVE",
+    "priority": 3,
+    "syllabus_mapping": [
+      "Governance",
+      "Economy"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000018,
+    "title": "Cabinet approves new renewable energy storage policy",
+    "date": "प्रविष्टि तिथि: 11 Aug 2026 11:59AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291403",
+    "verdict": "READ",
+    "priority": 9,
+    "syllabus_mapping": [
+      "Environment",
+      "Economy",
+      "Science & Technology"
+    ],
+    "upsc_summary": [
+      "Policy aims for 100 GWh of storage capacity by 2030.",
+      "Includes incentives for pumped hydro and battery systems."
+    ]
+  },
+  {
+    "prid": 1000019,
+    "title": "Ministry of Education announces scholarship expansion",
+    "date": "प्रविष्टि तिथि: 12 Aug 2026 12:06PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291404",
+    "verdict": "LEAVE",
+    "priority": 6,
+    "syllabus_mapping": [
+      "Society",
+      "Governance"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000020,
+    "title": "Culture Ministry organizes international heritage conservation summit",
+    "date": "प्रविष्टि तिथि: 13 Aug 2026 1:13PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291405",
+    "verdict": "LEAVE",
+    "priority": 2,
+    "syllabus_mapping": [
+      "Culture",
+      "International Relations"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000021,
+    "title": "Science and Technology Department launches AI ethics guidelines",
+    "date": "प्रविष्टि तिथि: 14 Aug 2026 9:20AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291406",
+    "verdict": "READ",
+    "priority": 7,
+    "syllabus_mapping": [
+      "Science & Technology",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Guidelines cover fairness, transparency, and accountability.",
+      "Industry and academia consulted over six months."
+    ]
+  },
+  {
+    "prid": 1000022,
+    "title": "Water Resources Ministry announces river rejuvenation mission",
+    "date": "प्रविष्टि तिथि: 15 Aug 2026 10:27AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291407",
+    "verdict": "LEAVE",
+    "priority": 5,
+    "syllabus_mapping": [
+      "Environment",
+      "Governance"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000023,
+    "title": "Commerce Ministry releases updated trade statistics for Q1",
+    "date": "प्रविष्टि तिथि: 16 Aug 2026 11:34AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291408",
+    "verdict": "LEAVE",
+    "priority": 4,
+    "syllabus_mapping": [
+      "Economy",
+      "International Relations"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000024,
+    "title": "Social Justice Ministry introduces new disability support scheme",
+    "date": "प्रविष्टि तिथि: 17 Aug 2026 12:41PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291409",
+    "verdict": "LEAVE",
+    "priority": 3,
+    "syllabus_mapping": [
+      "Society",
+      "Governance"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000025,
+    "title": "Agriculture research institute releases drought-resistant crop variety",
+    "date": "प्रविष्टि तिथि: 18 Aug 2026 1:48PM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291410",
+    "verdict": "LEAVE",
+    "priority": 2,
+    "syllabus_mapping": [
+      "Science & Technology",
+      "Economy"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000026,
+    "title": "Ministry of Law proposes new arbitration framework",
+    "date": "प्रविष्टि तिथि: 19 Aug 2026 9:55AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291411",
+    "verdict": "READ",
+    "priority": 8,
+    "syllabus_mapping": [
+      "Polity",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Framework aims to make arbitration faster and cost-effective.",
+      "Includes digital dispute resolution provisions."
+    ]
+  },
+  {
+    "prid": 1000027,
+    "title": "Food Processing Ministry promotes organic food clusters",
+    "date": "प्रविष्टि तिथि: 20 Aug 2026 10:02AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291412",
+    "verdict": "LEAVE",
+    "priority": 4,
+    "syllabus_mapping": [
+      "Economy",
+      "Environment"
+    ],
+    "upsc_summary": []
+  },
+  {
+    "prid": 1000028,
+    "title": "National Security Council issues advisory on cybersecurity preparedness",
+    "date": "प्रविष्टि तिथि: 21 Aug 2026 11:09AM by PIB Delhi",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2291413",
+    "verdict": "READ",
+    "priority": 9,
+    "syllabus_mapping": [
+      "Science & Technology",
+      "Governance"
+    ],
+    "upsc_summary": [
+      "Advisory highlights critical infrastructure protection needs.",
+      "Recommends regular audits and training programs."
+    ]
   }
 ]
