@@ -1,0 +1,20 @@
+{
+  "current": "2026-07",
+  "months": [
+    {
+      "id": "2026-08",
+      "title": "August 2026",
+      "file": "August2026.json"
+    },
+    {
+      "id": "2026-07",
+      "title": "July 2026",
+      "file": "July2026.json"
+    },
+    {
+      "id": "2026-06",
+      "title": "June 2026",
+      "file": "June2026.json"
+    }
+  ]
+}
