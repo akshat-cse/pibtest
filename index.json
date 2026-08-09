@@ -2,6 +2,11 @@
   "current": "2026-07",
   "months": [
     {
+      "id": "2026-08",
+      "title": "August 2026",
+      "file": "Summaries/August 2026 - Summary.json"
+    },
+    {
       "id": "2026-07",
       "title": "July 2026",
       "file": "July-2026.json"
