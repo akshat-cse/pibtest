@@ -1,6 +1,16 @@
 {
-  "current": "2026-08",
+  "current": "2026-09",
   "months": [
+    {
+      "id": "2026",
+      "title": "All Summaries",
+      "file": "Summaries/All_Combined_Summary.json"
+    },
+    {
+      "id": "2026-09",
+      "title": "September 2026",
+      "file": "Summaries/September 2026 - Summary.json"
+    },
     {
       "id": "2026-08",
       "title": "August 2026",
